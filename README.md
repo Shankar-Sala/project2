@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-Created by Shankar D Sala.
+Created by Shankar Sala.
